@@ -28,5 +28,5 @@ All of the `.data` files are 4194304 bytes in size (4 megabytes); all files are 
 
 ## 📀 Maintenance
 
-This directory is available on [GitHub]().
+This directory is available on [GitHub](https://github.com/EDRN/labcas-test-data).
 
